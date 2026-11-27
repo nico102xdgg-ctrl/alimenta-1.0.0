@@ -5,7 +5,6 @@ import geko.alimentabestia.item.CanaItem;
 import net.minecraft.resources.ResourceLocation;
 import software.bernie.geckolib.core.animation.AnimationState;
 import software.bernie.geckolib.core.animatable.model.CoreGeoBone;
-import software.bernie.geckolib.core.keyframe.BoneSnapshot;
 import software.bernie.geckolib.model.GeoModel;
 
 public class CanaModel extends GeoModel<CanaItem> {
@@ -19,7 +18,6 @@ public class CanaModel extends GeoModel<CanaItem> {
         this.renderer = renderer;
     }
 
-    
     @Override
     public void handleAnimations(CanaItem animatable, long instanceId, AnimationState<CanaItem> animationState) {
         if (renderer == null || renderer.isFirstPerson()) {
@@ -32,7 +30,7 @@ public class CanaModel extends GeoModel<CanaItem> {
     }
 
     private static void resetBone(CoreGeoBone bone) {
-        BoneSnapshot initial = bone.getInitialSnapshot();
+        var initial = bone.getInitialSnapshot();
         if (initial == null) {
             return;
         }
