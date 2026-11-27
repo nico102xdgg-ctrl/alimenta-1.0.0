@@ -106,7 +106,7 @@ public final class ClientEvents {
         
         @SubscribeEvent
         public static void onOverlayPre(RenderGuiOverlayEvent.Pre event) {
-            if (hideOverlayTicks > 0 && event.getOverlay() == VanillaGuiOverlay.OVERLAY_MESSAGE.type()) {
+            if (hideOverlayTicks > 0 && event.getOverlay() == VanillaGuiOverlay.RECORD_OVERLAY.type()) {
                 event.setCanceled(true);
             }
         }
