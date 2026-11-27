@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": {"model": "geko_alimentabestia:block/silla"},
+		"facing=south": {"model": "geko_alimentabestia:block/silla"},
+		"facing=west": {"model": "geko_alimentabestia:block/silla"},
+		"facing=east": {"model": "geko_alimentabestia:block/silla"}
+	}
+}

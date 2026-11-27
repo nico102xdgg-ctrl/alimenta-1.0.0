@@ -1,0 +1,4 @@
+{
+	"comment": "Herramienta de operador: hereda el modelo de la correa de vanilla para no inventarse una textura. Si algun dia hay icono propio, se cambia por item/generated + layer0.",
+	"parent": "minecraft:item/lead"
+}

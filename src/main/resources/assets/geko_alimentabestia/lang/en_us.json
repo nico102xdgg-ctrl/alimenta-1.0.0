@@ -1,0 +1,12 @@
+{
+	"item.geko_alimentabestia.pescado": "Fish",
+	"item.geko_alimentabestia.cana": "Fishing Rod",
+	"item.geko_alimentabestia.link_tool": "Link Tool",
+	"block.geko_alimentabestia.silla": "Chair",
+	"entity.geko_alimentabestia.cebo": "Bait",
+	"entity.geko_alimentabestia.asiento": "Seat",
+	"itemGroup.geko_alimentabestia.main": "Geko - Alimenta Bestia",
+	"subtitles.geko_alimentabestia.tecla": "Key pressed",
+	"subtitles.geko_alimentabestia.player_pass": "Seal fed",
+	"subtitles.geko_alimentabestia.alert": "Seal arrives"
+}

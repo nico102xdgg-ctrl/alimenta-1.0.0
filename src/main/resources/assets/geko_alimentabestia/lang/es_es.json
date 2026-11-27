@@ -1,0 +1,12 @@
+{
+	"item.geko_alimentabestia.pescado": "Pescado",
+	"item.geko_alimentabestia.cana": "Caña de pescar",
+	"item.geko_alimentabestia.link_tool": "Vara de enlace",
+	"block.geko_alimentabestia.silla": "Silla",
+	"entity.geko_alimentabestia.cebo": "Cebo",
+	"entity.geko_alimentabestia.asiento": "Asiento",
+	"itemGroup.geko_alimentabestia.main": "Geko - Alimenta Bestia",
+	"subtitles.geko_alimentabestia.tecla": "Tecla pulsada",
+	"subtitles.geko_alimentabestia.player_pass": "Foca alimentada",
+	"subtitles.geko_alimentabestia.alert": "Llega la foca"
+}

@@ -1,0 +1,7 @@
+{
+	"comment": "Vacio a proposito: la silla la dibuja GeckoLib (RenderShape.ENTITYBLOCK_ANIMATED). Este modelo solo existe para que el gestor de modelos no se queje y para dar la textura de las particulas al romperla. Mismo apaño que usa vanilla con los cofres.",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "geko_alimentabestia:block/silla"
+	}
+}

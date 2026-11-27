@@ -1,0 +1,20 @@
+{
+	"tecla": {
+		"subtitle": "subtitles.geko_alimentabestia.tecla",
+		"sounds": [
+			"geko_alimentabestia:tecla"
+		]
+	},
+	"player_pass": {
+		"subtitle": "subtitles.geko_alimentabestia.player_pass",
+		"sounds": [
+			"geko_alimentabestia:player_pass"
+		]
+	},
+	"alert": {
+		"subtitle": "subtitles.geko_alimentabestia.alert",
+		"sounds": [
+			"geko_alimentabestia:alert"
+		]
+	}
+}
