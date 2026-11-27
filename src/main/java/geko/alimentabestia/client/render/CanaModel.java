@@ -5,7 +5,7 @@ import geko.alimentabestia.item.CanaItem;
 import net.minecraft.resources.ResourceLocation;
 import software.bernie.geckolib.core.animation.AnimationState;
 import software.bernie.geckolib.core.animatable.model.CoreGeoBone;
-import software.bernie.geckolib.core.animation.BoneSnapshot;
+import software.bernie.geckolib.core.keyframe.BoneSnapshot;
 import software.bernie.geckolib.model.GeoModel;
 
 public class CanaModel extends GeoModel<CanaItem> {
